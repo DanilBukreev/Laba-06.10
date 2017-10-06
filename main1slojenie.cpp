@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
   int n, m;
-  cout << "Vvedite razmer massivov" << endl;
+  cout << "Введите размер массива: " << endl;
   cin >> n >> m;
   cout << endl;
   int a[n][m], b[n][m], c[n][m];
